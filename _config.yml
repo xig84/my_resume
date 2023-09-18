@@ -31,7 +31,7 @@ linkedin_username: Guo Xiang
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Xiang and I'm a University of Pittsburgh graduate student. My skills include <mark>C++</mark>, <mark>java</mark>, <mark>python</mark> and <mark>sql</mark>. I also have experience with <mark>machine learning </mark> and <mark>data analysis</mark>. I have completed  a number of course projects, which helped me  develop teamwork and leadership skills.
+  Hi, my name's Xiang and I'm a University of Pittsburgh graduate student. My skills include <mark>C++</mark>, <mark>java</mark>, <mark>python</mark> and <mark>sql</mark>. I also have experience with <mark>machine learning</mark> and <mark>data analysis</mark>. I have completed  a number of course projects, which helped me  develop teamwork and leadership skills.
 
 content:
   - title: Project # Title for the section
@@ -58,9 +58,10 @@ content:
       - layout: left
         title: Student research assistant
         caption: 2022 - 2023
+        
         # link_text: https://stte.csu.edu.cn/gdjtdsj
         description: | # this will include new lines to allow paragraphs
-          Assisting with research in Hunan Provincial Key Laboratory of Rail Transit Big Data.Mainly responsible for web crawlers, data cleaning, data visualization and preliminary analysis.
+          Assisting with research in <mark>Hunan Provincial Key Laboratory of Rail Transit Big Data</mark>(https://stte.csu.edu.cn/gdjtdsj).Mainly responsible for web crawlers, data cleaning, data visualization and preliminary analysis.
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
