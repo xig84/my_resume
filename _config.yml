@@ -74,11 +74,11 @@ content:
             Central South University is a Chinese university located in Changsha, Hunan Province.
         description: | # this will include new lines to allow paragraphs
           During my undergraduate studies, I came into contact with transportation big data, intelligent transportation, etc., which made me interested in computers.
-      -layout: left
-       title: University of Pittsburgh
-       caption: 2023 - present
-       sub_title: Ms Information Science
-       quote: >
+      - layout: left
+        title: University of Pittsburgh
+        caption: 2023 - present
+        sub_title: Ms Information Science
+        quote: >
             The University of Pittsburgh is an American university located in Pittsburgh, Pennsylvania.
        description: In this University, I started to study things that more interested me.
       
