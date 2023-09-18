@@ -57,11 +57,11 @@ content:
     content:
       - layout: left
         title: Student research assistant
+        link: https://stte.csu.edu.cn/gdjtdsj
         caption: 2022 - 2023
-        
         # link_text: https://stte.csu.edu.cn/gdjtdsj
         description: | # this will include new lines to allow paragraphs
-          Assisting with research in <mark>Hunan Provincial Key Laboratory of Rail Transit Big Data</mark>(https://stte.csu.edu.cn/gdjtdsj).Mainly responsible for web crawlers, data cleaning, data visualization and preliminary analysis.
+          Assisting with research in Hunan Provincial Key Laboratory of Rail Transit Big Data.Mainly responsible for web crawlers, data cleaning, data visualization and preliminary analysis.
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
